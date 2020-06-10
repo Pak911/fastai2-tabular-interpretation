@@ -1,0 +1,12 @@
+.gitconfig
+*.swp
+.ipynb_checkpoints/*
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.pkl
+*.csv
+!trans_over_1000_final.pkl
+

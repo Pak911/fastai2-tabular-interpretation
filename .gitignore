@@ -9,4 +9,5 @@ __pycache__/
 *.pkl
 *.csv
 !trans_over_1000_final.pkl
+!ftbl-trns-model.pkl
 
